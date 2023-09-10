@@ -1,0 +1,4 @@
+unidecode
+json
+requests
+tqdm
